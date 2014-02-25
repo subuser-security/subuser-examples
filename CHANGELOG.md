@@ -1,4 +1,4 @@
-
+* 20140225: Changed Script file names to use new name: 'BuildImage.sh'
 * 20140217:
 
   Added Example: SubuserBaseImages:

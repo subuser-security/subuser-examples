@@ -11,9 +11,9 @@ no other image is used.
 This are just examples.
 
 To improve upon:
-check if sudo permissions are really needed in the 'MakeBaseImage.sh'
+check if sudo permissions are really needed in the 'BuildImage.sh'
 
-if you write your own: 'MakeBaseImage.sh' it must handle everything
+if you write your own: 'BuildImage.sh' it must handle everything
 no option is passed to it: so make sure it does correct subuser required tagging ect..
 
 
