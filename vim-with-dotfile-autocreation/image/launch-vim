@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ ! -f $HOME/.vimrc ]; then
+  cp /usr/share/vim/enablespellcheck.rc $HOME/.vimrc
+fi
+
+vim "$@"

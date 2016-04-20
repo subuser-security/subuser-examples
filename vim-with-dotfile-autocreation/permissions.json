@@ -1,0 +1,7 @@
+{
+ "access-working-directory": true,
+ "basic-common-permissions": true,
+ "executable": "/usr/bin/launch-vim",
+ "description": "This is vim, preconfigured to have the spellchecker enabled.",
+ "maintainer": "Timothy Hobbs <timothyhobbs@seznam.cz>"
+}

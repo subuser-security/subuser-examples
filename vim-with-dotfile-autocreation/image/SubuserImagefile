@@ -1,0 +1,3 @@
+FROM-SUBUSER-IMAGE vim@default
+ADD .vimrc /usr/share/vim/enablespellcheck.rc
+ADD launch-vim /usr/bin/launch-vim
